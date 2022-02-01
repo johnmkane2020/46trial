@@ -27,6 +27,10 @@
                 <behavior>Edit</behavior>
                 <field>Hometown__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Favorite_Sport__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
